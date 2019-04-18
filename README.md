@@ -27,7 +27,7 @@ createdb drf_turorial
 * Renomeie o arquivo `env-sample` para `.env`:
 
 ```
-mv env-sample .env
+mv contrib/env-sample .env
 ```
 
 * Preencha as informações do `.env` e rode os seguintes comandos:
