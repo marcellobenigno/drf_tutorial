@@ -1,0 +1,5 @@
+*html text eol=lf
+*css text eol=lf
+*js text eol=lf
+sigitr/core/static/* linguist-vendored
+sigitr/core/templates/* linguist-vendored
