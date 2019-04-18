@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'rest_framework',
     # My apps
     'drf_tutorial.core',
+    'drf_tutorial.courses',
 ]
 
 MIDDLEWARE = [
